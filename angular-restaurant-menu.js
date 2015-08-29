@@ -2,7 +2,7 @@ angular.module('restaurant-menu',[])
 .directive('restaurantmenu',function () {
 	return {
 		restrict: 'E',
-		templateUrl: "restaurantmenu.html",
+		templateUrl: "/angular-restaurant-menu/restaurantmenu.html",
 		scope: {
 			menu: '=',
 			menucover: '=',
