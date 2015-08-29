@@ -5,6 +5,9 @@ This code wraps and enhances 3D Restaurant Menu Concept By Mary Lou into an angu
 
 Link to original web app- http://tympanus.net/codrops/2012/09/25/3d-restaurant-menu-concept/
 
+##Demo Link:
+http://danish21.github.io/angular-restaurant-menu/
+
 ##Getting Started:
 
 1) git clone https://github.com/Danish21/angular-restaurant-menu.git
